@@ -1,0 +1,13 @@
+Pham Van Ly|3000
+Do Dinh Luat|2990
+Truong Gia Bao|400
+Nguyen Thanh Tam|390
+Nguyen Xuan Duy|380
+Nguyen Tran Quang Minh|370
+Pham Van Ly|280
+Do Dinh Luat|190
+Truong Gia Bao|180
+Nguyen Thanh Tam|176
+Nguyen Xuan Duy|170
+Nguyen Tran Quang Minh|160
+Do Dinh Luat|760
